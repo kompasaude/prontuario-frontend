@@ -1,12 +1,12 @@
-# Teste Front-End AssinaSaúde
+# Teste Front-End Kompa Saúde
 
-Bem-vindo ao teste técnico para se juntar ao time incrível de front-ends da AssinaSaúde!
+Bem-vindo ao teste técnico para se juntar ao time incrível de front-ends da Kompa Saúde!
 
 O desafio de hoje é construir um prontuário eletrônico de saúde simplificado.
 
 > Também conhecido como software ou aplicativo de saúde, trata-se de um sistema que permite aos profissionais médicos inserir de forma rápida e eficiente muitas informações sobre novos pacientes. - [meuconsultorio.com](https://www.meuconsultorio.com/blog/o-que-e-prontuario-eletronico/)
 
-Na Assina Saúde, somos apaixonados por sistemas rápidos e experiências incríveis de saúde.
+Na Kompa Saúde, somos apaixonados por sistemas rápidos e experiências incríveis de saúde.
 Para o seu teste, escolhemos essa tarefa pois esse é um típico desafio que você encontrará trabalhando conosco.
 
 Nós sinceramente esperamos que você se divirta com esse desafio e talvez até aprenda algo novo! Happy coding!
